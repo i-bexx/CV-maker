@@ -1,4 +1,4 @@
-# CV-maker
+# CV-Creator
 
 Bu proje, Java dili ve OpenPDF kütüphanesi kullanılarak yazılmış basit bir konsol uygulamasıdır.
 Program çalıştırıldığında, kullanıcıdan arayüz olmadan doğrudan bir özgeçmiş (CV) dosyası oluşturur.
